@@ -1,2 +1,2 @@
 # balls
-Tracking ball displacement with a smartphone's camera
+Tracking a ball displacement with the smartphone's camera 
